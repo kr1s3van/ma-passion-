@@ -21,8 +21,8 @@ Developed as part of my portfolio, this project demonstrates my ability to struc
 ##  Project Structure
 ```text
 /
-├── TP-site-web.html    # Main Landing Page (Game Mechanics & Weapons)
-├── 2.html              # Secondary Page (Competitive Scene & Personal Analysis)
+├── index.html          # Main Landing Page (Game Mechanics & Weapons)
+├── index2.html         # Secondary Page (Competitive Scene & Personal Analysis)
 ├── style.css           # Global stylesheet for layout and animations
 ├── Images/             # Folder containing game assets and diagrams
 └── README.md           # Project documentation
@@ -48,7 +48,7 @@ The project utilizes a mix of layout techniques to position text and images effe
    ls
    code .
 ```
-3. Simply double-click on the TP-site-web.html file to open it in your default web browser.(Chrome, Firefox, Edge). 
+3. Simply Right-click on index.html and select 'Open with Live Server' to open it in your default web browser.(Chrome, Firefox, Edge). 
 
 ##  Author
 ```text
