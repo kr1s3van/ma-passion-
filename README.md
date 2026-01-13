@@ -40,7 +40,7 @@ The project utilizes a mix of layout techniques to position text and images effe
 ## How to Run
 ```bash
 1. Clone the repository:
-   git clone https://github.com/kr1s3van/ma_passion.git
+   git clone https://github.com/kr1s3van/ma-passion.git
 
 2. Navigate to the project directory.
 
