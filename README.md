@@ -38,14 +38,17 @@ The project utilizes a mix of layout techniques to position text and images effe
 ```
 
 ## How to Run
-```bash
 1. Clone the repository:
-   git clone https://github.com/kr1s3van/ma-passion.git
-
-2. Navigate to the project directory.
-
-3. Open the file TP-site-web.html in any modern web browser (Chrome, Firefox, Edge).
+```bash   
+   git clone https://github.com/kr1s3van/ma-passion-.git
 ```
+2. Navigate to the project directory.
+```bash
+   cd ma-passion-
+   ls
+   code .
+```
+3. Simply double-click on the TP-site-web.html file to open it in your default web browser.(Chrome, Firefox, Edge). 
 
 ##  Author
 ```text
